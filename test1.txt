@@ -2,4 +2,5 @@ Nội dung file đầu
 
 Đã sửa một lần
 
-Sửa nội dung trực tiếp trênGithub
+Sửa nội dung trực tiếp trên Github
+Fix utf-8 error
